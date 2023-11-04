@@ -21,6 +21,11 @@ and auto didactically..
 - 📄 Know about my experiences (English) [https://drive.google.com/file/d/1jLxzd3hxioUMCowaPDX_auEwHH6k7n2g/view?usp=drive_link](https://drive.google.com/file/d/1jLxzd3hxioUMCowaPDX_auEwHH6k7n2g/view?usp=drive_link)
 
 - ⚡ Know about my experiences (Spanish) [https://drive.google.com/file/d/1H1RoMq2wv685SlDISJJUBlGH7GVNCN98/view?usp=drive_link](https://drive.google.com/file/d/1jLxzd3hxioUMCowaPDX_auEwHH6k7n2g/view?usp=drive_link)
+  
+- 🎮 Play the game I developed [https://marthadelaossa.000webhostapp.com/GameFox/index.html](https://marthadelaossa.000webhostapp.com/GameFox/index.html)
+
+- 🖥️ A short video for Android Medical Application I developed with a team [https://www.youtube.com/watch?v=tmvwomLwZ4k&ab_channel=Misi%C3%B3nTIC2022UNAL](https://www.youtube.com/watch?v=tmvwomLwZ4k&ab_channel=Misi%C3%B3nTIC2022UNAL)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marthadelaossa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marthadelaossa/" height="30" width="40" /></a>
