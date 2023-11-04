@@ -10,6 +10,6 @@ and auto didactically..
 <br/>
 
 - 🔭 I’m currently working as QA Automation 🚀 
-- 🌱 I’m currently learning Java, GO, adn Testing Tools
+- 🌱 I’m currently learning Java, GO, and Testing Tools
 - 💬 Ask me about Automation
 -->
