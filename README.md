@@ -18,9 +18,9 @@ and auto didactically..
 
 - 📫 How to reach me **marthadelaossa@gmail.com**
 
-- 📄 Know about my experiences (English) [https://drive.google.com/file/d/1jLxzd3hxioUMCowaPDX_auEwHH6k7n2g/view?usp=drive_link](https://drive.google.com/file/d/1jLxzd3hxioUMCowaPDX_auEwHH6k7n2g/view?usp=drive_link)
+- 📄 Know about my experiences (English) [https://drive.google.com/file/d/18MjMyrsPz4FDMKvkhO7a_tGWeYqbJQ1W/view?usp=drive_link](https://drive.google.com/file/d/18MjMyrsPz4FDMKvkhO7a_tGWeYqbJQ1W/view?usp=drive_link)
 
-- ⚡ Know about my experiences (Spanish) [https://drive.google.com/file/d/1H1RoMq2wv685SlDISJJUBlGH7GVNCN98/view?usp=drive_link](https://drive.google.com/file/d/1jLxzd3hxioUMCowaPDX_auEwHH6k7n2g/view?usp=drive_link)
+- ⚡ Know about my experiences (Spanish) [https://drive.google.com/file/d/1N-XgTjy8ARme6tjYMgSfrsPfIEnPZVf-/view?usp=drive_link](https://drive.google.com/file/d/1N-XgTjy8ARme6tjYMgSfrsPfIEnPZVf-/view?usp=drive_link)
   
 - 🎮 Play the game I developed [https://marthadelaossa.000webhostapp.com/GameFox/index.html](https://marthadelaossa.000webhostapp.com/GameFox/index.html)
 
