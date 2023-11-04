@@ -1,4 +1,4 @@
-### Hello world 👋, I'm [Martha]([https://github.com/javcho23](https://github.com/marthadelaossa) 👨‍💻
+### Hello world 👋, I'm [Martha](https://github.com/marthadelaossa) 👨‍💻
 
 <p>
 I'm a Professional Developer and MSc. Mechanical Engineering, passionate and enthusiastic about programming and data science.
