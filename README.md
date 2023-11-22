@@ -24,7 +24,7 @@ and auto didactically..
   
 - 🎮 Play the game I developed [https://marthadelaossa.000webhostapp.com/GameFox/index.html](https://marthadelaossa.000webhostapp.com/GameFox/index.html)
 
-- 🖥️ A short video for Android Medical Application I developed with a team [https://www.youtube.com/watch?v=tmvwomLwZ4k&ab_channel=Misi%C3%B3nTIC2022UNAL](https://www.youtube.com/watch?v=tmvwomLwZ4k&ab_channel=Misi%C3%B3nTIC2022UNAL)
+- 🖥️ A short video for Android Medical Application I developed with a team [https://www.youtube.com/watch?v=tmvwomLwZ4k&ab_channel=Misi%C3%B3nTIC2022UNAL](https://www.youtube.com/watch?v=tmvwomLwZ4k&ab_channel=Misi%C3%B3nTIC2022UNAL) and the project Repository in bitbucket [https://bitbucket.org/marthadelaossa/ciclo4grupo-1/src/master/](https://bitbucket.org/marthadelaossa/ciclo4grupo-1/src/master/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
