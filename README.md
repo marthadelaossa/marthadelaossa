@@ -14,7 +14,7 @@ and auto didactically..
 
  🔭 I’m currently working as **QA Automation**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/marthadelaossa)
+- 👨‍💻 All of my projects are available [Here](https://github.com/marthadelaossa)
 
 - 📫 How to reach me **marthadelaossa@gmail.com**
 
