@@ -14,15 +14,15 @@ and auto didactically..
 
  🔭 I’m currently working as **QA Automation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/marthadelaossa](https://github.com/marthadelaossa)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/marthadelaossa)
 
 - 📫 How to reach me **marthadelaossa@gmail.com**
 
-- 📄 Know about my experiences (English) [https://drive.google.com/file/d/18MjMyrsPz4FDMKvkhO7a_tGWeYqbJQ1W/view?usp=drive_link](https://drive.google.com/file/d/18MjMyrsPz4FDMKvkhO7a_tGWeYqbJQ1W/view?usp=drive_link)
+- 📄 Know about my experiences (English) [My CV](https://drive.google.com/file/d/1uLYvmiU_62ZgzlgCaIk-5uU8BdCbjrGz/view?usp=sharing)
 
-- ⚡ Know about my experiences (Spanish) [https://drive.google.com/file/d/1N-XgTjy8ARme6tjYMgSfrsPfIEnPZVf-/view?usp=drive_link](https://drive.google.com/file/d/1N-XgTjy8ARme6tjYMgSfrsPfIEnPZVf-/view?usp=drive_link)
+
   
-- 🎮 Play the game I developed [https://marthadelaossa.000webhostapp.com/GameFox/index.html](https://marthadelaossa.000webhostapp.com/GameFox/index.html)
+- 🎮 Play the game I developed [GameFox](https://marthadelaossa.000webhostapp.com/GameFox/index.html)
 
 - 🖥️ A short video for Android Medical Application I developed with a team [https://www.youtube.com/watch?v=tmvwomLwZ4k&ab_channel=Misi%C3%B3nTIC2022UNAL](https://www.youtube.com/watch?v=tmvwomLwZ4k&ab_channel=Misi%C3%B3nTIC2022UNAL) and the project Repository in bitbucket [https://bitbucket.org/marthadelaossa/ciclo4grupo-1/src/master/](https://bitbucket.org/marthadelaossa/ciclo4grupo-1/src/master/)
   
