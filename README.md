@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marthadelaossa&label=Profile%20views&color=0e75b6&style=flat" alt="marthadelaossa" /> </p>
 
 <p>
-I'm a Professional Developer and MSc. Mechanical Engineering, passionate and enthusiastic about programming and data science.
+I'm an ISTQB® Certified Tester Foundation Level (CTFL), Professional Developer and MSc. Mechanical Engineering, passionate and enthusiastic about programming and data science.
 Knowledge in POO (Java), test automation with Selenium(Java) , serenity, and Cucumber. Screenplay and Pom pattern. 
 I work with tools like Octane, Jenkins and Github. 
 High problem solving skills with a great ability to apply new knowledge to others fields, big adaptability, learning quickly 
@@ -17,7 +17,9 @@ and auto didactically..
 
 - 📫 How to reach me **marthadelaossa@gmail.com**
 
-- 📄 Know about my experiences (English) [My CV](https://drive.google.com/file/d/1uLYvmiU_62ZgzlgCaIk-5uU8BdCbjrGz/view?usp=sharing)
+- 📄 Know about my experiences: 
+     * English  [CV](https://drive.google.com/file/d/1uLYvmiU_62ZgzlgCaIk-5uU8BdCbjrGz/view?usp=sharing)
+     * Español  [CV](https://drive.google.com/file/d/172Wt3pmF_JqV1yifQz8BxuNSLRnR0kjd/view?usp=sharing)
 
 
   
